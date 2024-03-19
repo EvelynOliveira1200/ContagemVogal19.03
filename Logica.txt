@@ -1,0 +1,9 @@
+Lógica de Contagem de vogais:
+
+1. Ler string 
+2. Transformar caractéres em minúsculo
+3. Dividir string utilizando ""
+4. Filtar os caractéres "a", "e", "i", "o", "u" (vogais) que estão dentro da let dividir
+5. Exibir o texto minúsculo
+6. Exiba quais vogais tem, separando-as com ","
+7. Exiba o número de vogais encontradas.
